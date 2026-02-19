@@ -54,7 +54,7 @@ jobs:
             let team_slug = "";
 
             if (labels.includes("join-mod2")) {
-              team_slug = "mod2-team";
+              team_slug = "mod2";
             }
 
             if (labels.includes("join-mod3")) {
